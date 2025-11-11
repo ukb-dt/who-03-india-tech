@@ -1,4 +1,4 @@
-<!-- Drop this anywhere in your README.md or page HTML -->
+{% raw %}
 <script>
   window.MathJax = {
     tex: {
@@ -12,9 +12,9 @@
   };
 </script>
 <script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 {% endraw %}
+
 
 
 # Technical Appendix
